@@ -9,7 +9,6 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Paul dG"]
   spec.email         = ["kiwi+omniauth+myecp@via.ecp.fr"]
   spec.summary       = 'A Omniauth Strategy to use MyECP-OAuth2'
-  spec.description   = spec.summary
   spec.homepage      = "https://github.com/VIACentraleReseaux/omniauth-myecp"
   spec.license       = "WTFPLv2"
 
