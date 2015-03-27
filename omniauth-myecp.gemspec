@@ -5,7 +5,7 @@ require 'omniauth-myecp/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "omniauth-myecp"
-  spec.version       = Omniauth::Myecp::VERSION
+  spec.version       = OmniAuth::Myecp::VERSION
   spec.authors       = ["Paul dG"]
   spec.email         = ["kiwi+omniauth+myecp@via.ecp.fr"]
   spec.summary       = 'A Omniauth Strategy to use MyECP-OAuth2'
