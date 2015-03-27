@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kiwi+omniauth+myecp@via.ecp.fr"]
   spec.summary       = 'A Omniauth Strategy to use MyECP-OAuth2'
   spec.description   = spec.summary
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/VIACentraleReseaux/omniauth-myecp"
   spec.license       = "WTFPLv2"
 
   spec.files         = `git ls-files -z`.split("\x0")
@@ -20,5 +20,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_dependecy "omniauth-oauth2", "~> 1.2"
+  spec.add_dependency "omniauth-oauth2", "~> 1.2"
 end
