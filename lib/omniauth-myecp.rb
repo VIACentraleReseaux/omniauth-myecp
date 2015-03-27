@@ -1,1 +1,3 @@
-require 'omniauth/strategies/myecp.rb'
+require 'omniauth/strategies/myecp'
+require 'omniauth-myecp/version'
+
