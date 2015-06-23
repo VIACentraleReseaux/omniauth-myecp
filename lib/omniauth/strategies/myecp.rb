@@ -23,7 +23,7 @@ module OmniAuth
 
       info do
         {
-          :name => raw_info['first_name'] + raw_info['last_name'],
+          :name => raw_info['first_name'] + " " + raw_info['last_name'],
           :email => raw_info['mail'],
           :nickname => raw_info['login'],
           :first_name => raw_info['first_name'], 
