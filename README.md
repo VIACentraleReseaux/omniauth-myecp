@@ -1,4 +1,4 @@
-# Omniauth::Myecp
+# Omniauth::MyECP
 
 Enables authentification against MyECP-OAuth2 with Omniauth
 

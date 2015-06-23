@@ -2,7 +2,7 @@ require 'omniauth-oauth2'
 
 module OmniAuth
   module Strategies
-    class Myecp < OmniAuth::Strategies::OAuth2
+    class MyECP < OmniAuth::Strategies::OAuth2
       # Give your strategy a name.
       option :name, "myecp"
 

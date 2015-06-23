@@ -1,5 +1,5 @@
 module OmniAuth
-  module Myecp
+  module MyECP
     VERSION = '0.0.1'
   end
 end
